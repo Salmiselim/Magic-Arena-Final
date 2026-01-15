@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e914d60b4529cf94e93665344711aea9, type: 3}
+  m_Name: Level3_Medium
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  enemyName: Skeleton
+  level: 1
+  difficulty: 0
+  prefab: {fileID: 7967994737643983270, guid: bb512dd7f35975e4cb4c74246d7a3fd2, type: 3}
+  portalColor: {r: 1, g: 0.662452, b: 0, a: 1}
+  skinMaterial: {fileID: 0}
+  spawnSound: {fileID: 8300000, guid: 5811cf84c8dd9e049a2c0ca75b7575f1, type: 3}
+  walkSounds:
+  - {fileID: 8300000, guid: ab8f5084597b3504a9560e76065467a3, type: 3}
+  hitSounds: []
+  attackSounds: []
+  deathSound: {fileID: 8300000, guid: 3ac315149c5146b44b590cd81630a4ff, type: 3}
+  walkSoundInterval: 0.5
+  moveSpeed: 2
+  attackRange: 1.5
+  maxHealth: 100
+  attackDamage: 10
+  attackCooldown: 1.5
+  knockbackForce: 0
+  scoreValue: 10
+  goldValue: 5
+  healthDrop: 0
+  manaDrop: 0
+  spawnCount: 3
+  spawnDelay: 2

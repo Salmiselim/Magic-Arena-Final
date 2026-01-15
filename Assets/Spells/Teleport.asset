@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37a031b175012ac4997807c09ed13547, type: 3}
+  m_Name: Teleport
+  m_EditorClassIdentifier: Assembly-CSharp::TeleportSpell
+  spellName: Teleport
+  manaCost: 0
+  cooldown: 1
+  castTime: 0
+  maxRange: 10
+  minRange: 2
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 1
+  heightOffset: 0.1
+  teleportIndicatorPrefab: {fileID: 0}
+  departureEffectPrefab: {fileID: 7053385775836331393, guid: 354b6251e950209409c75ab984acf000, type: 3}
+  arrivalEffectPrefab: {fileID: 7053385775836331393, guid: 354b6251e950209409c75ab984acf000, type: 3}
+  validLocationColor: {r: 0, g: 1, b: 1, a: 1}
+  invalidLocationColor: {r: 1, g: 0, b: 0, a: 1}
+  teleportSound: {fileID: 0}
+  invalidLocationSound: {fileID: 0}
+  requireLineOfSight: 1
+  mustBeOnGround: 1

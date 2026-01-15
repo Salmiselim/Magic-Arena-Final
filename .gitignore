@@ -1,0 +1,28 @@
+# Unity folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Unity crash reports
+sysinfo.txt
+
+# Large assets (optional but recommended)
+*.cubemap
+*.fbx
+*.wav
+*.mp3
+*.psd
+*.zip
+*.rar

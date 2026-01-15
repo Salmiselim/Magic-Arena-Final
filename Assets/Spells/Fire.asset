@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 290ef1c49fc8beb4ea776fa31858931d, type: 3}
+  m_Name: Fire
+  m_EditorClassIdentifier: Assembly-CSharp::ElementalMagic
+  spellName: Fire
+  manaCost: 20
+  cooldown: 10
+  castTime: 0.1
+  type: 0
+  damage: 30
+  range: 15
+  areaRadius: 3
+  effectPrefab: {fileID: 8793510976239746625, guid: 8fa5143051527e949b0ae174c8430414, type: 3}
+  impactEffectPrefab: {fileID: 3077343761403282166, guid: f78aaaec3b393e24ca74cd6de8194347, type: 3}
+  auraEffectPrefab: {fileID: 6414953239637031926, guid: 8c49b35febea4514b87b37f643064ed4, type: 3}
+  statusDuration: 3
+  dotDamage: 5
+  slowAmount: 0.5
+  isAreaEffect: 0
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 0

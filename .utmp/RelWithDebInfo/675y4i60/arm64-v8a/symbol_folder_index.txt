@@ -1,0 +1,1 @@
+C:\Users\Selim-PC\Documents\GitHub\Magic-Arena\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\675y4i60\obj\arm64-v8a

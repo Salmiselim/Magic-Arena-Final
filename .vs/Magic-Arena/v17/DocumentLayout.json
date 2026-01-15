@@ -1,0 +1,767 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|c:\\users\\selim-pc\\documents\\github\\magic-arena\\assets\\spells\\script\\voicespellcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\spells\\script\\voicespellcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\spells\\script\\mictester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\spells\\script\\mictester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\spells\\script\\autovoicespellmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\spells\\script\\autovoicespellmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\artworks\\new stuff\\magicdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\artworks\\new stuff\\magicdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\artworks\\new wall\\destructiblewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\artworks\\new wall\\destructiblewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\scripts\\fadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\enemies\\script\\enemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\script\\enemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\enemies\\script\\enemyranged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\script\\enemyranged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\enemies\\script\\enemyfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\script\\enemyfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\EnemyHealthBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:Assets\\Enemies\\Script\\EnemyHealthBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\player\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\enemies\\script\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\script\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena - Copy\\Assets\\Player\\Scripts\\PlayerStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\spells\\script\\wandeventsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\spells\\script\\wandeventsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\enemies\\script\\enemyspawnpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\script\\enemyspawnpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\enemies\\script\\spawnpointmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\script\\spawnpointmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\enemies\\script\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\script\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\enemies\\script\\gameuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\script\\gameuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\scripts\\uibuttonsounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uibuttonsounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\scripts\\enterdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enterdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\scripts\\optionsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\optionsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\scripts\\castledooropener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\castledooropener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Scripts\\PlayerStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\spells\\script\\wandaudiointegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\spells\\script\\wandaudiointegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\enemies\\script\\enemydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\script\\enemydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\artworks\\key\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\artworks\\key\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\spells\\script\\offensivespells.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\spells\\script\\offensivespells.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\spells\\script\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\spells\\script\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\enemies\\visual\\animation\\final orc\\playerdamagedebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\visual\\animation\\final orc\\playerdamagedebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\enemies\\script\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\script\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\artworks\\portal\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\artworks\\portal\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\artworks\\portal\\collisiondebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\artworks\\portal\\collisiondebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Selim-PC\\Downloads\\MagicDoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\enemies\\script\\deathscreenui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\script\\deathscreenui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\enemies\\script\\levelportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\script\\levelportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\spells\\script\\collisiontester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\spells\\script\\collisiontester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\spells\\script\\shieldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\spells\\script\\shieldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\spells\\script\\defensivespells.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\spells\\script\\defensivespells.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\enemies\\script\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\script\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\spells\\script\\elementalstatuseffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\spells\\script\\elementalstatuseffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\spells\\script\\elementalsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\spells\\script\\elementalsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\spells\\script\\wandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\spells\\script\\wandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\spells\\script\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\spells\\script\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\spells\\script\\spellmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\spells\\script\\spellmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\assets\\enemies\\script\\baseballbat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2571626-C2FD-9B71-5DD2-B13A4F367819}|Assembly-CSharp.csproj|solutionrelative:assets\\enemies\\script\\baseballbat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena - Copy\\Assets\\Player\\Scripts\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "..\\Magic-Arena - Copy\\Assets\\Player\\Scripts\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena - Copy\\Assets\\Player\\Scripts\\PlayerStats.cs",
+              "RelativeToolTip": "..\\Magic-Arena - Copy\\Assets\\Player\\Scripts\\PlayerStats.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAuwOsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:24:55.156Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VoiceSpellCaster.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\VoiceSpellCaster.cs",
+              "RelativeDocumentMoniker": "Assets\\Spells\\Script\\VoiceSpellCaster.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\VoiceSpellCaster.cs",
+              "RelativeToolTip": "Assets\\Spells\\Script\\VoiceSpellCaster.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAAACgBAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T21:16:49.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MicTester.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\MicTester.cs",
+              "RelativeDocumentMoniker": "Assets\\Spells\\Script\\MicTester.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\MicTester.cs",
+              "RelativeToolTip": "Assets\\Spells\\Script\\MicTester.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T21:16:19.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoVoiceSpellmanager.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\AutoVoiceSpellmanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Spells\\Script\\AutoVoiceSpellmanager.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\AutoVoiceSpellmanager.cs",
+              "RelativeToolTip": "Assets\\Spells\\Script\\AutoVoiceSpellmanager.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T21:13:41.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MagicDoor.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Artworks\\new stuff\\MagicDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Artworks\\new stuff\\MagicDoor.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Artworks\\new stuff\\MagicDoor.cs",
+              "RelativeToolTip": "Assets\\Artworks\\new stuff\\MagicDoor.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwFcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:14:09.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FadeController.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Scripts\\FadeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FadeController.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Scripts\\FadeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FadeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:12:17.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\EnemyProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Script\\EnemyProjectile.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\EnemyProjectile.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Script\\EnemyProjectile.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAowLwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T22:48:14.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WandAudioIntegration.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\WandAudioIntegration.cs",
+              "RelativeDocumentMoniker": "Assets\\Spells\\Script\\WandAudioIntegration.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\WandAudioIntegration.cs",
+              "RelativeToolTip": "Assets\\Spells\\Script\\WandAudioIntegration.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAwwAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:31:52.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Player\\Scripts\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\Scripts\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Player\\Scripts\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Player\\Scripts\\PlayerStats.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAWwF8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T15:07:36.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Script\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Script\\EnemySpawner.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAiwP8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:06:08.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\WaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Script\\WaveManager.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\WaveManager.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Script\\WaveManager.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAWwBsBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:44:50.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyHealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\EnemyHealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Script\\EnemyHealthBar.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\EnemyHealthBar.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Script\\EnemyHealthBar.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAiwJIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:51:47.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyRanged.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\EnemyRanged.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Script\\EnemyRanged.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\EnemyRanged.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Script\\EnemyRanged.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAMwBIBAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T22:49:13.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DestructibleWall.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Artworks\\new wall\\DestructibleWall.cs",
+              "RelativeDocumentMoniker": "Assets\\Artworks\\new wall\\DestructibleWall.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Artworks\\new wall\\DestructibleWall.cs",
+              "RelativeToolTip": "Assets\\Artworks\\new wall\\DestructibleWall.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAmwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:59:55.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WandEventSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\WandEventSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Spells\\Script\\WandEventSystem.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\WandEventSystem.cs",
+              "RelativeToolTip": "Assets\\Spells\\Script\\WandEventSystem.cs",
+              "ViewState": "AgIAAE4BAAAAAAAAAAAYwCEBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:32:17.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\EnemyFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Script\\EnemyFollow.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\EnemyFollow.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Script\\EnemyFollow.cs",
+              "ViewState": "AgIAAHABAAAAAAAAAAAUwIUBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:57:40.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnemySpawnPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\EnemySpawnPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Script\\EnemySpawnPoint.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\EnemySpawnPoint.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Script\\EnemySpawnPoint.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAcwFEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:04:38.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SpawnPointManager.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\SpawnPointManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Script\\SpawnPointManager.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\SpawnPointManager.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Script\\SpawnPointManager.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAcwBIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:05:56.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:37:46.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PlayerStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Scripts\\PlayerStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerStatus.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Scripts\\PlayerStatus.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerStatus.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:37:57.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EnemyData.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\EnemyData.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Script\\EnemyData.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\EnemyData.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Script\\EnemyData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:44:44.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Script\\LevelManager.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Script\\LevelManager.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAswKwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:40:21.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\GameUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Script\\GameUIManager.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\GameUIManager.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Script\\GameUIManager.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAowIsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:24:06.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CastleDoorOpener.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Scripts\\CastleDoorOpener.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CastleDoorOpener.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Scripts\\CastleDoorOpener.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CastleDoorOpener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:53:56.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OptionsMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Scripts\\OptionsMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OptionsMenu.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Scripts\\OptionsMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OptionsMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:54:03.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EnterDebug.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Scripts\\EnterDebug.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnterDebug.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Scripts\\EnterDebug.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnterDebug.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:54:10.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UIButtonSounds.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Scripts\\UIButtonSounds.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIButtonSounds.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Scripts\\UIButtonSounds.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIButtonSounds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:54:18.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Spells\\Script\\Projectile.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Spells\\Script\\Projectile.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAswI8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T15:18:13.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OffensiveSpells.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\OffensiveSpells.cs",
+              "RelativeDocumentMoniker": "Assets\\Spells\\Script\\OffensiveSpells.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\OffensiveSpells.cs",
+              "RelativeToolTip": "Assets\\Spells\\Script\\OffensiveSpells.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAswHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T15:14:07.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Key.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Artworks\\Key\\Key.cs",
+              "RelativeDocumentMoniker": "Assets\\Artworks\\Key\\Key.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Artworks\\Key\\Key.cs",
+              "RelativeToolTip": "Assets\\Artworks\\Key\\Key.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:22:53.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DefensiveSpells.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\DefensiveSpells.cs",
+              "RelativeDocumentMoniker": "Assets\\Spells\\Script\\DefensiveSpells.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\DefensiveSpells.cs",
+              "RelativeToolTip": "Assets\\Spells\\Script\\DefensiveSpells.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswIsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:30:51.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PlayerDamageDebugger.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Visual\\Animation\\final orc\\PlayerDamageDebugger.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Visual\\Animation\\final orc\\PlayerDamageDebugger.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Visual\\Animation\\final orc\\PlayerDamageDebugger.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Visual\\Animation\\final orc\\PlayerDamageDebugger.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAswHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:27:49.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Script\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Script\\AudioManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwEUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:00:11.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CollisionTester.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\CollisionTester.cs",
+              "RelativeDocumentMoniker": "Assets\\Spells\\Script\\CollisionTester.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\CollisionTester.cs",
+              "RelativeToolTip": "Assets\\Spells\\Script\\CollisionTester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:28:53.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SpellManager.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\SpellManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Spells\\Script\\SpellManager.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\SpellManager.cs",
+              "RelativeToolTip": "Assets\\Spells\\Script\\SpellManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T15:13:44.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MagicDoor.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Downloads\\MagicDoor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\MagicDoor.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Downloads\\MagicDoor.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\MagicDoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:22:25.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "portal.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Artworks\\Portal\\portal.cs",
+              "RelativeDocumentMoniker": "Assets\\Artworks\\Portal\\portal.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Artworks\\Portal\\portal.cs",
+              "RelativeToolTip": "Assets\\Artworks\\Portal\\portal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:36:01.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CollisionDebugger.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Artworks\\Portal\\CollisionDebugger.cs",
+              "RelativeDocumentMoniker": "Assets\\Artworks\\Portal\\CollisionDebugger.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Artworks\\Portal\\CollisionDebugger.cs",
+              "RelativeToolTip": "Assets\\Artworks\\Portal\\CollisionDebugger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T17:46:02.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeathScreenUI.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\DeathScreenUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Script\\DeathScreenUI.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\DeathScreenUI.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Script\\DeathScreenUI.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAA9wI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T16:01:45.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Spell.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\Spell.cs",
+              "RelativeDocumentMoniker": "Assets\\Spells\\Script\\Spell.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\Spell.cs",
+              "RelativeToolTip": "Assets\\Spells\\Script\\Spell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:52:47.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "WandController.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\WandController.cs",
+              "RelativeDocumentMoniker": "Assets\\Spells\\Script\\WandController.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\WandController.cs",
+              "RelativeToolTip": "Assets\\Spells\\Script\\WandController.cs",
+              "ViewState": "AgIAAKQBAAAAAAAAAAAjwLcBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:57:28.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ElementalSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\ElementalSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Spells\\Script\\ElementalSystem.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\ElementalSystem.cs",
+              "RelativeToolTip": "Assets\\Spells\\Script\\ElementalSystem.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAswKwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:11:18.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ShieldController.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\ShieldController.cs",
+              "RelativeDocumentMoniker": "Assets\\Spells\\Script\\ShieldController.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\ShieldController.cs",
+              "RelativeToolTip": "Assets\\Spells\\Script\\ShieldController.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAwwBoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:32:51.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LevelPortal.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\LevelPortal.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Script\\LevelPortal.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\LevelPortal.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Script\\LevelPortal.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAswNsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:04:42.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ElementalStatusEffect.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\ElementalStatusEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Spells\\Script\\ElementalStatusEffect.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Spells\\Script\\ElementalStatusEffect.cs",
+              "RelativeToolTip": "Assets\\Spells\\Script\\ElementalStatusEffect.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAgwAoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:16:58.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BaseballBat.cs",
+              "DocumentMoniker": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\BaseballBat.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemies\\Script\\BaseballBat.cs",
+              "ToolTip": "C:\\Users\\Selim-PC\\Documents\\GitHub\\Magic-Arena\\Assets\\Enemies\\Script\\BaseballBat.cs",
+              "RelativeToolTip": "Assets\\Enemies\\Script\\BaseballBat.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAkwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:44:42.353Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 61,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

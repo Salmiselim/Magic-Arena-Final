@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0eb3e251a60599542ad82b6644d3fc66, type: 3}
+  m_Name: Shielder
+  m_EditorClassIdentifier: Assembly-CSharp::DefensiveSpell
+  spellName: Shielder
+  manaCost: 25
+  cooldown: 10
+  castTime: 0.2
+  duration: 10
+  shieldRadius: 50
+  pushbackForce: 60
+  healsPlayer: 1
+  healAmount: 25
+  pushEnemiesOnCast: 1
+  blockProjectiles: 1
+  pushbackInterval: 0.5
+  shieldPrefab: {fileID: 259305663462164751, guid: 3998009b31c71e54195beafc71e27cdf, type: 3}
+  shieldScale: 100
